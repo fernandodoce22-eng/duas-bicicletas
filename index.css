@@ -1,0 +1,31 @@
+
+
+.palavra1{ 
+    color: rgba(226, 204, 0, 0.705); 
+
+}
+.palavra2 {
+    color: rgb(103, 194, 12);
+}
+
+.palavra3 {
+    color: rgb(230, 164, 0);
+}
+.palavra4 {
+    color: darkgreen;
+}
+.titulo1{
+    border:solid 1px;
+    border-radius: 19%;
+    padding: 15px;
+    text-align: center;
+    border-color: rgb(209, 180, 15);
+    
+}
+
+body{
+background-color: rgb(247, 246, 224);
+}
+.sim{
+color: gold;
+}
